@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+gt-export.json
+*-results.json
+*.json.bak
